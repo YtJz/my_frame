@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="jinzhenhao">
+    <serverData>
+      <paths name="jinzhenhao">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jinzhenhao/experiment/my_frame" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
