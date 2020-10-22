@@ -61,6 +61,7 @@ x = np.arange(-100, 100)
 y = (1-np.e**(-0.05*x))/(1+np.e**(-0.05*x))
 ax.plot(x, y)
 
+
 ax = fig.add_subplot(223)
 x = np.arange(-100, 100)
 y = (np.e**x-np.e**(-x))/(np.e**x+np.e**(-x))
